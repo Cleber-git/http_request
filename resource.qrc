@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>wifi-desligado.png</file>
+        <file>wifi.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../Downloads/sol.png</file>
+        <file>../Downloads/wifi-desligado.png</file>
+        <file>../Downloads/wifi.png</file>
+    </qresource>
+</RCC>
